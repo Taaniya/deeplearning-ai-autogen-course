@@ -16,7 +16,9 @@ References to autogen library -
 * [Selector group chat - How does it work? (v0.5.x)](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/selector-group-chat.html#how-does-it-work)
     * [How does it select the next speaker in a team of agents in a group chat?](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/selector-group-chat.html#selector-prompt)
     * [Alternatively, define custom function to select next speaker](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/selector-group-chat.html#custom-selector-function)
-* [Agents with tool use with reflection](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/selector-group-chat.html#agents)
+* Agents with tool use
+    * [Agents with tool use with reflection (0.5.x)](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/selector-group-chat.html#agents)
+    * [Agents with tool use (v0.2)](https://microsoft.github.io/autogen/0.2/docs/tutorial/tool-use/)
 * Agent chat Termination
     * [Terminating conversation between agents, v 0.2](https://microsoft.github.io/autogen/0.2/docs/tutorial/chat-termination/)
     * [Agent chat termination, v0.5.x](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/tutorial/termination.html)
